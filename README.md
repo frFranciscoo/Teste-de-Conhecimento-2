@@ -2,6 +2,7 @@
 
 Matemática Computacional, Prof. Dr. Alexsandro O. A.
 Aluno: Francisco Ferreira da Silva Júnior
+Aluno: João Gabriel
 
 ## O que foi feito
 
